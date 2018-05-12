@@ -1,0 +1,29 @@
+_repo: Le-Fils-de-CoralieCom-die-en-quatre-actes-en-prose_42592
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42592-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Delpit, Albert
+    alias: Delpit, Marc-Adrien
+    birthdate: 1849
+    deathdate: 1893
+    gutenberg_agent_id: '7751'
+    url: http://www.gutenberg.org/2009/agents/7751
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2013-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42592'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French drama -- 19th century'
+- !lcsh 'Comedies'
+- !lcc 'PQ'
+title: 'Le Fils de Coralie: Comédie en quatre actes en prose'
+url: http://www.gutenberg.org/ebooks/42592
